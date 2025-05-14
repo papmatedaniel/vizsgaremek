@@ -1,1 +1,61 @@
-1. multiplatformos szövegszerkesztő/jegyzetelő alkalmazás/ökoszisztéma
+0. multiplatformos szövegszerkesztő/jegyzetelő alkalmazás/ökoszisztéma
+
+1. Online Időpontfoglaló rendszer (pl. orvosi rendelő, fodrász, műhely stb.), webes projekt, sok komponenssel:
+- Admin felület (időpontok kezelése, elérhetőségek megadása)
+- Ügyfél felület (időpont foglalása, saját foglalások kezelése)
+- Email/SMS értesítések
+- Naptár nézet (pl. FullCalendar)
+- Jogosultságkezelés (admin, felhasználó, vendég)
+- Bővíthető funkciók: fizetés, több szolgáltató kezelése, mobilnézet
+
+2. Interaktív Projektmenedzsment eszköz (mint a Trello, Asana), webes, valós céges használatra is alkalmas:
+- Drag-and-drop task kezelő
+- Felhasználók, csoportok, határidők
+- Kommentek, fájlcsatolás
+- API backend (pl. Laravel, Node.js)
+- Statisztikák, diagramok (pl. Chart.js)
+- Bővíthető például AI ajánlásokkal vagy verziókövetéssel.
+
+3. Oktatási platform / Tanulássegítő rendszer webes környezetben:
+- Tesztkitöltés, visszajelzés, pontozás
+- Tananyag modulok (PDF, videó, interaktív)
+- Tanár / diák / admin szerepkör
+- Ranglista, badge rendszer, motivációs elemek
+- Lehetséges pluszok: mobil app kiegészítés, mini játékok beépítése
+
+4. Interaktív Hibabejelentő és Karbantartási rendszer. Főként intézményeknek vagy társasházaknak
+- Lakók/hallgatók bejelenthetik a problémákat (pl. elromlott lift)
+- Admin oldalon nyomon követhető, státuszkövetéssel
+- Képfeltöltés, határidők
+- E-mail értesítés, statisztikák
+- Könnyen szétbontható modulokra (bejelentés, admin, státusz, logok).
+
+5. Étterem / Kávézó menükezelő + rendelőrendszer QR-kódos asztali rendeléssel
+Webes vagy hibrid mobil/web:
+- Asztal QR kód beolvas → menü
+- Online rendelés leadás, fizetés
+- Admin felület termékek kezelésére
+- Raktárkészlet, statisztikák
+- Lehetséges bővítés: több étterem támogatása, ételallergia szűrők
+
+6. Mentális egészség napló és önsegítő platform
+Webes és személyes használatra:
+- Hangulatnapló, stressz tracker
+- Tipp-adó modul (pl. „Ma mit tehetsz magadért?”)
+- Grafikonok, fejlődés követése
+- Napi feladatok, célok kitűzése
+- Bővítés: pszichológus kapcsolat, anonim fórum
+
+7. Multipiactér (mint Vatera vagy eBay kicsiben), nem csak „szimpla webshop”:
+- Több eladó, saját boltkezelés
+- Termékfeltöltés, státuszok
+- Vásárlói értékelések
+- Admin jóváhagyás, riportok
+- Kihívás: Jogosultságkezelés, kategóriakezelés, keresőoptimalizálás
+
+8. Webes adatelemző dashboard (pl. pénzügyi, környezetvédelmi, sport)
+- Backend API + frontend statikus oldal
+- Importálás CSV-ből vagy valós API-ból
+- Grafikonok, hőtérképek, exportálás
+- Jogosultság (ki mit lát)
+- Téma példák: kriptovaluták, sporteredmények, időjárás adatok, környezetvédelmi mérőszámok
